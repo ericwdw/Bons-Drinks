@@ -1,0 +1,17 @@
+footer {
+  width: 100%;
+  text-align: center;
+}
+
+.textoRodape {
+  font-size: medium;
+}
+.estiloRodape {
+  grid-area: footer;
+  height: 40px;
+  font-size: 18px;
+  font-weight: bold;
+  position: fixed;
+  bottom: 0;
+  background-color: #fffbef;
+}

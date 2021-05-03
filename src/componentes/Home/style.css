@@ -1,0 +1,20 @@
+@import url("https://fonts.googleapis.com/css2?family=Bilbo+Swash+Caps&family=Open+Sans+Condensed:wght@700&display=swap");
+
+.imagemHome {
+  grid-area: main;
+  width: 100%;
+  height: 640px;
+  background: url("../../assets/home.jpg") no-repeat 100%;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+}
+
+.bonsDrinksheader {
+  font-family: "Bilbo Swash Caps", cursive;
+  color: white;
+  align-self: center;
+  font-size: 120px;
+  font-weight: bold;
+  margin-top: 10px;
+}

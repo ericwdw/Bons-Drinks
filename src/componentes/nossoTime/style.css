@@ -1,0 +1,30 @@
+@import url("https://fonts.googleapis.com/css2?family=Dela+Gothic+One&family=Ubuntu:wght@300;400&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Knewave&display=swap");
+
+.MeuNome {
+  font-family: "Bilbo Swash Caps", cursive;
+  color: #5d0612;
+  font-size: 50px;
+  margin-top: 20px;
+  margin-bottom: 5px;
+}
+
+.minhaFoto {
+  border: solid #5d0612;
+}
+
+.meuTime {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 30px;
+  margin-bottom: 10px;
+}
+
+.textoEquipe {
+  width: 400px;
+  text-indent: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+  line-height: 30px;
+  text-align: justify;
+}

@@ -1,0 +1,78 @@
+.formulario {
+  justify-content: space-around;
+  display: flex;
+  flex-direction: column;
+  height: 300px;
+}
+.inputs {
+  display: flex;
+  justify-content: space-around;
+  flex-direction: column;
+  height: 300px;
+}
+.configinput {
+  width: 400px;
+  border: solid 1px;
+  border-radius: 5px;
+  height: 25px;
+  margin-top: 10px;
+}
+
+.botao1 {
+  align-self: flex-end;
+  font-size: medium;
+  height: 30px;
+  width: 150px;
+  color: white;
+  background-color: #5d0612;
+  border: none;
+  border-radius: 10px;
+}
+
+.botao1:hover {
+  background-color: #75232e;
+}
+
+.rodape {
+  margin-top: 10px;
+  font-size: 13px;
+}
+
+.titulocontato {
+  font-family: "Bilbo Swash Caps", cursive;
+  color: #5d0612;
+  font-size: 70px;
+  margin-bottom: 0px;
+  grid-area: main;
+  grid-column-start: 1;
+  justify-self: center;
+  margin-right: 50%;
+}
+
+.imag1 {
+  grid-area: main;
+}
+
+.inputDisplay {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  font-weight: bold;
+}
+
+.inputText {
+  height: 70px;
+}
+
+.principal {
+  grid-area: main;
+  grid-column-start: 2;
+  grid-row-start: 3;
+  justify-self: center;
+  width: 60%;
+  margin-left: 0%;
+}
+
+.div2 {
+  justify-self: center;
+}

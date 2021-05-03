@@ -1,0 +1,25 @@
+.tituloSobre {
+  font-family: "Bilbo Swash Caps", cursive;
+  color: #5d0612;
+  font-size: 50px;
+  margin-bottom: 0px;
+}
+
+.textoSobre {
+  width: 400px;
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: left;
+  margin-top: 50px;
+}
+.conteudoSobre {
+  display: flex;
+  justify-content: space-around;
+  margin-left: 300px;
+  margin-right: 300px;
+  margin-top: 50px;
+  text-align: center;
+}
+
+.divSobre {
+  text-align: center;
+}
